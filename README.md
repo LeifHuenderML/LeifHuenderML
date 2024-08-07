@@ -4,7 +4,7 @@
 ---
 
 ### 🤖 About Me
-Hello, I'm Leif Huender. I have a keen interest in artificial intelligence, particularly in the development of AI/AGI, software design, and algorithm creation. My goal is to push the boundaries of technology and explore new frontiers in machine intelligence.
+AI researcher | Research Fellow @UIdaho | Head Researcher @AxiomLabs | Founder @Disseminate: A nonprofit bridging the digital divide for rural students 
 
 ---
 
